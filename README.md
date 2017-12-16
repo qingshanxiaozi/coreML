@@ -1,3 +1,2 @@
 # coreML
-Creating a new branch is quick.
-This is a pull request test.
+在分支dev上修改了README.md文件，并提交到dev仓库上，然后将dev仓库的修改push到远端的github上。
